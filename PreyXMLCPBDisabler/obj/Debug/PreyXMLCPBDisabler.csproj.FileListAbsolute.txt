@@ -1,0 +1,6 @@
+C:\Users\Spodes\Desktop\PreyModKit\SaveEditor\PreyXMLCPBDisabler\PreyXMLCPBDisabler\bin\Debug\PreyXMLCPBDisabler.exe.config
+C:\Users\Spodes\Desktop\PreyModKit\SaveEditor\PreyXMLCPBDisabler\PreyXMLCPBDisabler\bin\Debug\PreyXMLCPBDisabler.exe
+C:\Users\Spodes\Desktop\PreyModKit\SaveEditor\PreyXMLCPBDisabler\PreyXMLCPBDisabler\bin\Debug\PreyXMLCPBDisabler.pdb
+C:\Users\Spodes\Desktop\PreyModKit\SaveEditor\PreyXMLCPBDisabler\PreyXMLCPBDisabler\obj\Debug\PreyXMLCPBDisabler.csprojResolveAssemblyReference.cache
+C:\Users\Spodes\Desktop\PreyModKit\SaveEditor\PreyXMLCPBDisabler\PreyXMLCPBDisabler\obj\Debug\PreyXMLCPBDisabler.exe
+C:\Users\Spodes\Desktop\PreyModKit\SaveEditor\PreyXMLCPBDisabler\PreyXMLCPBDisabler\obj\Debug\PreyXMLCPBDisabler.pdb
