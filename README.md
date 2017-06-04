@@ -1,5 +1,5 @@
 # PreyXMLCPBDisabler
-Needs update for currenct prey version!
+Needs update for current prey version!
 
 Disables the save XMLCPB format for Prey 2017
 
